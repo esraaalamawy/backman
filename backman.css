@@ -1,7 +1,8 @@
 body{
-    background-color: black;
+    background:url("images/37.jpg.e9a3144ac7c0ddf4b891be41c90d4cb2.jpg");
 }
 h1{
+    background-color: #000000;
     color: white;
     width: fit-content;
     padding: 6px 20px;
@@ -56,6 +57,7 @@ h1::before{
     }
 }
 .main{
+    background-color: #000000;
     width: 75%;
     height: 480px;
     border-radius: 10px;
